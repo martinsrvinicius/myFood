@@ -13,5 +13,7 @@
         <item name="android:statusBarColor" tools:targetAPI="1">@color/white</item>
         <item name="android:windowLightStatusBar" tools:targetAPI="23">true</item>
         <!-- Customize your theme here. -->
+        <item name="buttonStyle">@style/myFoodBtnStyle</item>
+        <item name="android:textViewStyle">@style/myFoodTextViewStyle</item>
     </style>
 </resources>

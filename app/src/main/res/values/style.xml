@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="myFoodBtnStyle" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@font/opensans</item>
+    </style>
+
+    <style name="myFoodTextViewStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/opensans</item>
+    </style>
+
+    <style name="myFoodTabLayoutTextAppearence" parent="Widget.Design.TabLayout">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+</resources>
